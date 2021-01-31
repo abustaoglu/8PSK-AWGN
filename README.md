@@ -1,3 +1,3 @@
 # 8PSK-AWGN
 
-Bit/Error Rate analysis of 8-PSK modulation in AWGN channel communication.
+Bit/Error Rate analysis of 8-PSK modulation in AWGN channel.
